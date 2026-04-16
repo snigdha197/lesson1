@@ -1,0 +1,13 @@
+h2{
+    color:brown;
+}
+.para {
+    color:aqua;
+    font-size: larger;
+}
+#myid{
+    color: coral;
+}
+*{
+    background-color:black;
+}
