@@ -1,0 +1,13 @@
+h2{
+    color:darkslateblue;
+}
+.pen {
+    color:darkolivegreen;
+    font-size: 29px;
+}
+#pencil{
+    color: coral;
+}
+*{
+    background-color:bisque;
+}
